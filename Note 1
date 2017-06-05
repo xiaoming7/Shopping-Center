@@ -1,0 +1,1 @@
+register.jsp页面，<form name="form" action="register.jsp" method="post" onSubmit="return checkdata()"> 中的 action 可以提交到自身页面，或者其他页面，把提交动作和页面表格分开？
